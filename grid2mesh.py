@@ -1,5 +1,5 @@
 import numpy as np
-
+ 
 class SurfaceMesh:
     """Simple class to represent a triangular mesh."""
     def __init__(self, vertices, faces):
